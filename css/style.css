@@ -60,6 +60,24 @@ p {
 	background-size: cover;
 }
 
+#background3Main {
+	background-image: url(../img/fly1.jpg);
+	min-height: 500px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#background3 {
+	background-image: url(../img/fly2.jpg);
+	min-height: 500px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 #top {
 	height:500px;
 }
@@ -158,3 +176,8 @@ a:hover, a:active {
 	color: white;
 }
 
+button {
+	height: 50px;
+	width: 60px;
+	font-size: 25px;
+}
